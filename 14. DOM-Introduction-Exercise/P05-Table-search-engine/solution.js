@@ -28,3 +28,5 @@ function solve() {
     document.querySelector("#searchField").value = "";
   }
 }
+
+solve();
