@@ -19,8 +19,8 @@ body{
 }
 
 #exercise{   
-    width: 70%;
-    float: left;
+    width: 55%;
+    margin: 0 auto;
     padding: 1rem 0 1rem 1rem;
 }
 main:after{
